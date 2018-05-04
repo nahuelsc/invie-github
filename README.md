@@ -1,3 +1,4 @@
-# invie-github
-Proyectos del curso de gitygithub
-para tus mejores guitarras
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
