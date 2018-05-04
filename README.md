@@ -1,3 +1,4 @@
-# invie-github
-Proyectos del curso de gitygithub
-para tus mejores guitarras
+# invie
+Las guitarras más locas
+
+https://nahuelsc.github.io/invie-github/
